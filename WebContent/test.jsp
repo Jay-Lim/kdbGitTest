@@ -14,9 +14,6 @@
 <h2> bracn를 수정했습니다. </h2>
 
 <h3> bracn를 branch로 수정했습니다.</h3>
-<<<<<<< HEAD
-=======
 
->>>>>>> branch2
 </body>
 </html>
