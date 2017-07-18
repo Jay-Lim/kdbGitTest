@@ -11,6 +11,7 @@
 <body>
 
 <h2> source-tree로 git을 관리하자.</h2>
+<h3> git을 배워 보자!</h3>
 
 </body>
 </html>
